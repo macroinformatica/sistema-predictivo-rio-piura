@@ -38,6 +38,7 @@ Incluye visualización avanzada con **Plotly**, mostrando métricas, correlacion
 
 ## 👨‍💻 Autor:Evangelista Sifuentes Raul Yhampiher
 **[ Asesor Técnico / Desarrollador del Modelo]**  
-📍 Proyecto de investigación aplicada – Universidad Cesar Vallejo-Piura / Independiente  
+📍 Proyecto de investigación aplicada – Universidad Cesar Vallejo-Piura / 
 🔗 [LinkedIn](https://www.linkedin.com/in/macroinformatica/)  
+<img width="1761" height="600" alt="newplot (2)" src="https://github.com/user-attachments/assets/596b4620-7292-47df-9460-16f1396d0dcb" />
 
